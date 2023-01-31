@@ -14,7 +14,7 @@ tags:
 - Example Tag
 - Example Tag2
 title: Hello World
-updated: '2023-01-31 11:24:04'
+updated: '31'
 ---
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
 
