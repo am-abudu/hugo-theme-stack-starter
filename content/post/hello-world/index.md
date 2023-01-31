@@ -2,6 +2,7 @@
 abbrlink: ''
 categories:
 - Example Category
+- Example Category2
 date: 2022-03-06 00:00:00+0000
 description: Welcome to Hugo Theme Stack
 excerpt: 'Welcome to Hugo theme Stack. This is your first post. Edit or delete it,
@@ -11,8 +12,9 @@ image: cover.jpg
 slug: hello-world
 tags:
 - Example Tag
+- Example Tag2
 title: Hello World
-updated: '2023-01-31 11:23:46'
+updated: '2023-01-31 11:24:04'
 ---
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
 
