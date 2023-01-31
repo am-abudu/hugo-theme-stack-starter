@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - Example Category
 - Example Category2
-date: 2022-03-06 00:00:00+0000
+date: Tue, 31 Jan 2023 03:36:59 GMT
 description: Welcome to Hugo Theme Stack
 excerpt: 'Welcome to Hugo theme Stack. This is your first post. Edit or delete it,
   then start writing! For more information about this theme, check the documentation:
@@ -14,7 +14,7 @@ tags:
 - Example Tag
 - Example Tag2
 title: Hello World
-updated: '31'
+updated: Tue, 31 Jan 2023 03:36:59 GMT
 ---
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
 
